@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: index
 title: Introduction
 author: Jr Cybersecurity Consultant
 ---
@@ -37,3 +37,5 @@ Now, enough about me. I think it's time to carry on.
 Coming into consulting, I've realised things move very quickly. I want to document my time in this industry so I can make sense of my journey, places I believe I need to improve and things I've done that I'm good at. If I'm able to help even one person through my experiences, I'd be forever greatful.
 
 I'm not a wrtier by any means, so I'm sorry if any of this seems disjointed at all. Hopefully writing this blog will help my writing skills too!
+
+**- {{ page.author }}
